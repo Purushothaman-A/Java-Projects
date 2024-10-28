@@ -12,11 +12,9 @@ Withdrawal Functionality: Users can withdraw cash from their accounts while ensu
 User-Friendly Interface: Designed with a clear and intuitive console-based menu, the application allows users to navigate through different options effortlessly, enhancing user experience.
 
 Credentials:
-
 1.
 Account No:12345
 Password : 1234
-
 2.
 Account No:54321
 Password : 4321
