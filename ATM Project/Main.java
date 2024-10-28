@@ -19,7 +19,7 @@ public class Main {
             int pNo = scanner.nextInt();
 
             // Validate credentials
-            if (cNo == 1234 && pNo == 12345 || cNo == 4321 && pNo == 54321) {
+            if (cNo == 12345 && pNo == 1234 || cNo == 54321 && pNo == 4321) {
                 opt.account(); // Access account options if credentials are valid
                 break; // Exit the loop on successful login
             } else {
